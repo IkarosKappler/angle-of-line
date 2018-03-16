@@ -1,18 +1,12 @@
-# Area of an Ellipse
+# Angle of a line/vector
 
-This script :
-```
- (i)   Computes the area of an ellipse.
- (ii)  Computes the area of an elliptic section based on an angle.
- (iii) Computes the area of an elliptic section based on a start and an end angle.
- (iv)  Computes a section's angle based on a start angle and a given area.
-```
-
-[Area of elliptic sector](screenshot_area-of-elliptic-sector_20180316.png "Area of elliptic sector")
+This script computes the angle of a given line; to be more precise it computes
+the arcus tangent between the positive x axis and the vector starting at (0,0)
+ending at any point (x,y) omn the cartesian plane.
 
 
-[N sectors with equal area](screenshot_sectors-of-ellipse_20180316.png "N sectors with equal area")
+![Angle of the tangent](screenshot_angle-of-line_20180316.png "Angle of the tangent")
 
 
-Here is the [Demo](http://int2byte.de/public/area-of-ellipse/main.html)
 
+Here is the [Demo](http://int2byte.de/public/angle-of-line/main.html)
