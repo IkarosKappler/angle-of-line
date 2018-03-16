@@ -5,7 +5,7 @@ the arcus tangent between the positive x axis and the vector starting at (0,0)
 ending at any point (x,y) omn the cartesian plane.
 
 
-[Angle of the tangent](screenshot_angle-of-line_20180316.png "Angle of the tangent")
+![Angle of the tangent](screenshot_angle-of-line_20180316.png "Angle of the tangent")
 
 
 
